@@ -89,7 +89,7 @@ YOUTUBE_DOWNLOAD_EDIT_SLEEP = int(getenv("YOUTUBE_EDIT_SLEEP", "1"))
 TELEGRAM_DOWNLOAD_EDIT_SLEEP = int(getenv("TELEGRAM_EDIT_SLEEP", "1"))
 
 # Your Github Repo.. Will be shown on /start Command
-GITHUB_REPO = "hhtps://github.com/saifalisew1508/MissCutie"
+GITHUB_REPO = "https://github.com/Sumitmeena12/Music_Bot"
 
 # Spotify Client.. Get it from https://developer.spotify.com/dashboard
 SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "817ef3b667ae41fa904568b4eeaee96d")
