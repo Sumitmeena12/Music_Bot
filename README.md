@@ -6,8 +6,8 @@
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
     <a href="https://github.com/saifalisew1508/MissCutie/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-red.svg?style=flat-square" /></a>
     <a href="https://github.com/saifalisew1508/MissCutie"> <img src="https://img.shields.io/github/repo-size/saifalisew1508/MissCutie?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/saifalisew1508/MissCutie/commits/main"> <img src="https://img.shields.io/github/last-commit/saifalisew1508/MissCutie?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/saifalisew1508/MissCutie/issues"> <img src="https://img.shields.io/github/issues/saifalisew1508/MissCutie?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
+    <a href="https://github.com/Sumitmeena12/Music_Bot/commits/main"> <img src="https://img.shields.io/github/last-commit/saifalisew1508/MissCutie?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
+    <a href="https://github.com/Sumitmeena12/Music_Bot/issues"> <img src="https://img.shields.io/github/issues/saifalisew1508/MissCutie?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
     <a href="https://github.com/saifalisew1508/MissCutie/network/members"> <img src="https://img.shields.io/github/forks/saifalisew1508/MissCutie?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
     <a href="https://github.com/saifalisew1508/MissCutie/network/members"> <img src="https://img.shields.io/github/stars/saifalisew1508/MissCutie?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
 </p>
@@ -26,7 +26,7 @@
 
 ### 🎖 History
 
-[![Mentioned in Awesome Python](https://awesome.re/mentioned-badge.svg)](https://github.com/saifalisew1508/MissCutie)
+[![Mentioned in Awesome Python](https://awesome.re/mentioned-badge.svg)](https://github.com/Sumitmeena12/Music_Bot)
 
 ## Features 🔮
 
@@ -53,12 +53,12 @@
 ## Heroku Deployment 💜
 The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/saifalisew1508/MissCutie)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sumitmeena12/Music_Bot)
 
 ## 🖇 okteto Deployment
 
 <h4>Click the button below to deploy MissCutie on Okteto!</h4>
-<a href="https://cloud.okteto.com/deploy?repository= https://github.com/saifalisew1508/MissCutie"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
+<a href="https://cloud.okteto.com/deploy?repository= https://github.com/Sumitmeena12/Music_Bot"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
 
 ## 🖇 VPS Deployment
 
